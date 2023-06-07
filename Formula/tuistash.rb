@@ -3,7 +3,7 @@ class Tuistash < Formula
   homepage "https://github.com/edmocosta/tuistash"
   url ""
   sha256 ""
-  version "0.0.0"
+  version "0.1.0"
 
   def install
     bin.install "tuistash"
