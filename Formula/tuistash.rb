@@ -1,9 +1,9 @@
 class Tuistash < Formula
   desc "A terminal user interface for Logstash 🪵"
   homepage "https://github.com/edmocosta/tuistash"
-  url "https://github.com/edmocosta/tuistash/releases/download/v0.7.0/tuistash-v0.7.0-x86_64-apple-darwin.zip"
-  sha256 "ea2cce1c96fe1a8861d2eafbbbdb4728a876166a71820fa75adffc5bbc381079"
-  version "0.7.0"
+  url "https://github.com/edmocosta/tuistash/releases/download/v0.7.1/tuistash-v0.7.1-x86_64-apple-darwin.zip"
+  sha256 "bbdb655110fa5a4f25d3cd876f1d2ce8544ddb0dd2261cffdd43a4d2c81e32c6"
+  version "0.7.1"
   
   def install
     bin.install "tuistash"
